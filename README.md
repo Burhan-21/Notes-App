@@ -220,4 +220,4 @@ Exiting. Goodbye!
 
 ## License
 
-This project is a learning resource created for Elevate Labs and is free to use, modify, and share.
+This is a learning-focused project. Feel free to adapt, enhance, or repurpose it in any way that suits your needs.
