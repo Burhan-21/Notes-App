@@ -1,6 +1,6 @@
 # Notes App
 
-Welcome! This is a **console-based Notes App** written in Java 17+, developed as part of the Elevate Labs Java Developer Internship Task 4. The project helps practice file I/O, exception handling, and modern Java features like records, enhanced switch expressions, and try-with-resources.
+This console-based Notes App, built with Java 17+, is designed to practice file I/O, exception handling, and modern Java features such as records, enhanced switch expressions, and try-with-resources.
 
 ---
 
